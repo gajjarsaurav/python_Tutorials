@@ -5,3 +5,8 @@ def health_calc(age, no_of_apples, cigs_smoked):
 saurabh_exp_age = [19, 10, 0]
 health_calc(saurabh_exp_age[0], saurabh_exp_age[1], saurabh_exp_age[2])
 health_calc(*saurabh_exp_age)       # unpackaging of arguments means passing elements of array as parameters in function by using '*'
+x,y = (3,5)     # here we're spcifying x and y coordinates 
+print(x)
+print(y)
+
+a,b = (1,2,3)   # this will generate an error
