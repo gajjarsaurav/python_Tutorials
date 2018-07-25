@@ -1,2 +1,2 @@
 # python_Tutorials
-This repository is a transcript of Python Tutorials from TheNewBoston
+This repository contains the python scripts providing the basic functionalities in it...
